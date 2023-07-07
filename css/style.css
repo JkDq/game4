@@ -1,0 +1,46 @@
+body{
+	background: black;
+	padding: 50px;
+}
+#holst{
+	display: none;
+	margin: 0 auto;
+	border: 3px solid white;
+}
+.start
+{
+	width: 1200px;
+	height: 600px;
+	margin: 0 auto;
+	border: 3px solid white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.btn-start
+{
+	width: 150px;
+	height: 50px;
+	font-size: 15px;
+	color: white;
+	border: 3px solid white;
+	background: none;
+}
+.win
+{
+	width: 150px;
+	height: 50px;
+	font-size: 15px;
+	color: white;
+	margin: 0 auto;
+	 
+}
+.lose
+{
+	width: 150px;
+	height: 50px;
+	font-size: 15px;
+	color: white;
+	margin: 0 auto;
+ 
+}
